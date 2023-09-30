@@ -2,7 +2,7 @@ package app1;
 
 import java.util.Scanner;
 
-public class BinarySearchWithRecursion {
+public class BinarySearchWithoutRecursion {
 
 	public static void main(String[] args) {
 		
